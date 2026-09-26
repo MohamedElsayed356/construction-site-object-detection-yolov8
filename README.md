@@ -1,5 +1,7 @@
 # Construction Site Object Detection using YOLOv8
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohamedElsayed356/construction-site-object-detection-yolov8/blob/main/notebook/M4U3_Construction_Site_Object_Detection_YOLOv8.ipynb)
+
 ## M4U3 Computer Vision Assignment
 
 This project develops and evaluates a YOLOv8 object-detection model for
